@@ -1,1 +1,3 @@
-# Bazy-danych
+# Bazy danych
+
+Zadania z przedmiotu Bazy Danych
